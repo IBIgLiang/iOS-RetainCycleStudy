@@ -1,0 +1,12 @@
+PODS:
+  - FBRetainCycleDetector (0.1.4)
+
+DEPENDENCIES:
+  - FBRetainCycleDetector
+
+SPEC CHECKSUMS:
+  FBRetainCycleDetector: 46f8179bbb1c587deee3ea838a1a3ee02acf5015
+
+PODFILE CHECKSUM: 0c0ec85ab1b2565942c3130c3b6a527b8f4dbd99
+
+COCOAPODS: 1.4.0
